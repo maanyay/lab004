@@ -1,1 +1,1 @@
-# lab004
+#include<stdio.h>
